@@ -1,0 +1,32 @@
+body {
+    background: #FEECE0 ;
+}
+
+#header_img{
+    align-items: center;
+    width: 100px;
+}
+
+button{
+    background: none;
+    text-align: center;
+    width: 21px;
+    border-radius: 10px;
+    border-color: #9B6647;
+    color: #9B6647;
+}
+
+.title{
+    color: #58190A;
+}
+
+.header{
+    text-align: center;
+    background-color: #FEECE0;
+    color: #9B6647;
+}
+
+.prep_instructions{
+    background-color: #9B6647;
+    color: #FEECE0;
+}
